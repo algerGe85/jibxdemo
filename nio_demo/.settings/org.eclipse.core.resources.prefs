@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/nio/demo/NIOClient.java=UTF-8
+encoding//src/nio/demo/NIOServer.java=UTF-8
+encoding//src/nio/selector/SelectSockets.java=UTF-8
